@@ -1,4 +1,0 @@
-account_id,bucket,region,intelligent_tiering_frequent_access_usd,intelligent_tiering_archive_instant_access_usd,intelligent_tiering_monitoring_usd,total_object_count,total_object_size,total_object_over_128_kbytes_count,total_object_over_128_kbytes_size,yearly_cost_saving_usd
-123456789012,example-bucket-01,us-east-1,0.023,0.004,0.0025,149,133554384,6,132615638,0.03
-123456789012,example-bucket-02,eu-central-1,0.0245,0.005,0.0025,3,2608107,2,1738738,0.0
-123456789012,example-bucket-03,ap-northeast-1,0.025,0.005,0.0025,297656,26957911851,13380,23899971555,4.94
